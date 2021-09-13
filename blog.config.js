@@ -1,8 +1,8 @@
 const BLOG = {
-  title: 'CRAIGARY',
-  author: 'Craig Hart',
-  email: 'i@craigary.net',
-  link: 'https://nobelium.vercel.app',
+  title: 'ghol',
+  author: 'ghol',
+  email: 'gh@@your-mail.com',
+  link: 'https://ghol.pp.ua',
   description: 'This gonna be an awesome website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -50,7 +50,7 @@ const BLOG = {
       repo: ''
     },
     cusdisConfig: {
-      appId: '', // data-app-id
+      appId: '185afe86-559c-4514-a0c7-98cecb7c006d', // data-app-id
       host: 'https://cusdis.com', // data-host, change this if you're using self-hosted version
       scriptSrc: 'https://cusdis.com/js/cusdis.es.js' // change this if you're using self-hosted version
     }
